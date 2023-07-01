@@ -1,0 +1,71 @@
+
+button{
+    background-color: rgb(5, 52, 5);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    border-color: none;
+    font-size: 20px;
+}
+
+table{
+    /* border: 2px solid red; */
+    width: 100px;
+    margin: auto;
+    margin-top: 20px;
+    justify-content: space-evenly;
+   
+
+}
+th{
+    padding-left: 100px;
+    padding-right: 100px;
+    color: black;
+}
+/* table,td{
+    border: 1px solid black;
+} */
+td{
+
+/* background-color:rgb(35, 67, 37); */
+color:black;
+}
+
+thead{
+    /* background-color: rgb(233, 70, 11); */
+    color: white;
+}
+.btn1{
+  padding: 7px;
+  background-color: rgb(5, 52, 5);
+  color: white;
+  border-radius: 8px;
+  border-color: none;
+  font-size: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.main{
+    display: flex;
+    width: 50%;
+    height: auto;
+    background-color: aquamarine;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 100px;
+}
+.form{
+    margin: auto;
+
+}
+.name{
+    padding: 10px;
+    margin-right: 10px;
+}
+.email{
+    padding: 10px;
+}
+.label{
+    margin-right: 9px;
+}
